@@ -1,4 +1,4 @@
-<?php
+git remote show origin<?php
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
